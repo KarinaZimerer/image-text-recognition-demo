@@ -1,3 +1,4 @@
+```markdown
 # Reconhecimento de Texto em Imagens
 
 Este repositório contém uma demonstração de reconhecimento de texto em imagens usando técnicas de processamento de imagem e OCR (Optical Character Recognition).
@@ -29,18 +30,22 @@ Este repositório contém uma demonstração de reconhecimento de texto em image
     }
   }
 ]
+```
+
+3. **Salvando Resultados**: Os resultados do reconhecimento de texto são armazenados no formato JSON na pasta 'output'.
+
+## Insights e Possibilidades
+
+- Aprendemos a utilizar técnicas de processamento de imagem e OCR para reconhecer texto em imagens.
+- Há possibilidades de expandir esse projeto para reconhecimento de texto em vídeos, documentos digitalizados e muito mais.
+- O uso de modelos de aprendizado de máquina pode melhorar a precisão e a velocidade do reconhecimento de texto.
+
+## Captura de Tela do Processo
+
+![Captura de Tela](https://github.com/KarinaZimerer/image-text-recognition-demo/assets/104630037/ecff2299-6a24-4e04-a3d8-46e96bf57085)
+```
 
 
-Salvando Resultados: Os resultados do reconhecimento de texto são armazenados no formato JSON na pasta 'output'.
-Insights e Possibilidades
-
-Aprendemos a utilizar técnicas de processamento de imagem e OCR para reconhecer texto em imagens.
-Há possibilidades de expandir esse projeto para reconhecimento de texto em vídeos, documentos digitalizados e muito mais.
-O uso de modelos de aprendizado de máquina pode melhorar a precisão e a velocidade do reconhecimento de texto.
-
-
-
-<img width="1129" alt="Captura de Tela 2024-02-28 às 18 25 06" src="https://github.com/KarinaZimerer/image-text-recognition-demo/assets/104630037/ecff2299-6a24-4e04-a3d8-46e96bf57085">
 
 
 
