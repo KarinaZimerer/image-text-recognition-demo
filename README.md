@@ -19,7 +19,7 @@ Este repositório contém uma demonstração de reconhecimento de texto em image
       "top": 23
     },
     "faceLandmarks": {
-      // Coordenadas dos pontos faciais
+
     },
     "faceAttributes": {
       "mask": {
