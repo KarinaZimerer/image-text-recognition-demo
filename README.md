@@ -40,6 +40,7 @@ O uso de modelos de aprendizado de máquina pode melhorar a precisão e a veloci
 
 
 
+<img width="1129" alt="Captura de Tela 2024-02-28 às 18 25 06" src="https://github.com/KarinaZimerer/image-text-recognition-demo/assets/104630037/ecff2299-6a24-4e04-a3d8-46e96bf57085">
 
 
 
